@@ -1,0 +1,7 @@
+{
+  "port" : 4000,
+  "mongoose": {
+    "uri": "mongodb://localhost/mongoose_admin"
+  },
+  "jwtSecret": "%J$DJ@@$H#@Kdkvjb@"
+}

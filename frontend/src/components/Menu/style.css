@@ -1,0 +1,24 @@
+@import '~semantic-ui-css/semantic.min.css';
+
+.ui.button {
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.log-out {
+  background-color: #1890ff;
+}
+
+.ui.inverted.blue.button, .ui.inverted.blue.buttons .button {
+  color: #1890ff;
+}
+
+.ui.inverted.blue.button:hover {
+  background-color: #1890ff;
+}
+
+.menu {
+  display: inline-block;
+  float: right;
+  margin: 20px 50px 10px 0;
+}

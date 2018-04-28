@@ -1,0 +1,10 @@
+@import '~semantic-ui-css/semantic.min.css';
+
+.edit-tab-form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.edit-tab-form .ui.attached.tabular.menu {
+  margin-top: -2px;
+}

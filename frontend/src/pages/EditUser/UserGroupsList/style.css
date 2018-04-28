@@ -1,0 +1,24 @@
+@import '~semantic-ui-css/semantic.min.css';
+
+.ui.grid {
+  margin-left: 2em;
+}
+
+.edit-form {
+  width: 100%;
+}
+
+.ui.header {
+  margin: 0;
+  margin-top: 40px;
+}
+
+.ui.list .list>.item>.icon+.content, .ui.list .list>.item>.image+.content, .ui.list>.item>.icon+.content, .ui.list>.item>.image+.content {
+  display: inline-block;
+}
+
+.ui.list .list>.item>i.icon, .ui.list>.item>i.icon {
+  display: inline-block;
+  padding-top: 5px;
+  padding-right: 30px;
+}

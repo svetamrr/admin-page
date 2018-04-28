@@ -1,0 +1,9 @@
+@import '~semantic-ui-css/semantic.min.css';
+
+.item.users {
+  width: 600px;
+}
+
+.ui.header.users-header {
+  width: 800px;
+}

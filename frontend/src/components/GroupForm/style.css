@@ -1,0 +1,6 @@
+@import '~semantic-ui-css/semantic.min.css';
+
+.ui.form.add-group {
+  width: 25%;
+  margin: 0 auto;
+}

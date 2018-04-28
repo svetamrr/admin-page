@@ -2,7 +2,6 @@
 Admin page is an application that allows to manage users and groups in different ways
 Capabilities:
 -add users/groups;
--search users/groups;
 -edit users/groups;
 -remove users/groups
 -add group to user;

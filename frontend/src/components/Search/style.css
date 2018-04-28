@@ -1,0 +1,24 @@
+@import '~semantic-ui-css/semantic.min.css'; 
+
+.ui.input input {
+  width: 300px;
+}
+
+.clearfix:after {
+  clear: both;
+  content: "";
+  display: block;
+}
+
+.search {
+  float: right;
+  margin: 5px 50px 10px 0; 
+}
+
+.ui.icon.button>.icon, .ui.icon.buttons .button>.icon {
+  color: white;
+}
+
+.ui.action.input>.button, .ui.action.input>.buttons>.button {
+  background-color: #1890ff;
+}

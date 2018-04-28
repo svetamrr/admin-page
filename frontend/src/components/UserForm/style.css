@@ -1,0 +1,44 @@
+@import '~semantic-ui-css/semantic.min.css';
+
+.ui.form {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.ui.button {
+  background-color: #1890ff;
+  color: #fff;
+}
+
+.ui.button:hover {
+  background-color: #1890ff;
+  color: #fff;
+}
+
+.ui.table tr td {
+  background-color: #F8F8FF;
+}
+
+.ui.inverted.blue.button, .ui.inverted.blue.buttons .button {
+  box-shadow: 0 0 0 1px #1890ff inset!important
+}
+
+.ui.inverted.red.button, .ui.inverted.red.buttons .button {
+  box-shadow: 0 0 0 1px rgb(204, 78, 92) inset!important;
+  color: rgb(204, 78, 92);
+}
+
+.ui.segment[class*="bottom attached"] {
+  position: relative;
+  top: 41px;
+}
+
+.ui.vertically.divided.grid {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.ui.form.add-user {
+  width: 60%;
+  margin: 0 auto;
+}

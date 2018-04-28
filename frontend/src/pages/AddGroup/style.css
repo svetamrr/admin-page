@@ -1,0 +1,13 @@
+.edit-tab-form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.edit-tab-form .ui.attached.tabular.menu {
+  margin-top: -2px;
+}
+
+.ui.form.add-group {
+  width: 25%;
+  margin: 0 auto;
+}
